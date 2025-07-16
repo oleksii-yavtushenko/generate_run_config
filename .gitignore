@@ -8,3 +8,7 @@
 /dataSources.local.xml
 /.idea
 /.idea/
+*.iml
+
+generate_run_config
+main
